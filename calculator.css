@@ -1,0 +1,31 @@
+body{
+	align: center;
+}
+
+div{
+	border: 2px solid purple;
+	margin: auto;
+	padding-right: ;
+	width: 300px;
+	height: 400px;
+	box-shadow: solid;
+	background-color: beige;
+}
+
+h1{
+	color: #Fe7d7d;
+	text-align: center;
+	font-family: Impact, serif, sans-serif;
+}
+
+p{
+	padding-left: 10px;
+	color: navy;
+	font-weight: 20px;
+}
+
+button{
+	background-color: red;
+	color: white;
+	border-radius: 30px;
+}
